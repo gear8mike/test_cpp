@@ -2,7 +2,7 @@ using namespace std;
 
 void test_2()
 {
-    int nmax = 30;
+    int nmax = 32;
     
     vector<int> c;
 
