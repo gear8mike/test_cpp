@@ -6,6 +6,8 @@ void test_2()
     
     vector<int> c;
 
+    double nmin=12.;
+
 
     for(int i=2; i<=nmax; i++)
     {
