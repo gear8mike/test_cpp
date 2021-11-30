@@ -1,4 +1,5 @@
 using namespace std;
+using namespace TMath;
 
 void test_2()
 {
